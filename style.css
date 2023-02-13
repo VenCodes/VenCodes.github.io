@@ -1,0 +1,62 @@
+body{
+
+background-image: url('http://inn.spb.ru/images/100/DSC100137108.jpg');
+background-color: skyblue;
+/* Full height */
+  height: 600px; 
+margin: 80px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div {
+  background-image: url("https://odishasuntimes.com/wp-content/uploads/2017/05/lightning.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ width: 600px;
+ height: 400px;
+        padding: 20px;
+        border-radius: 25px;
+   margin: 5em auto;
+}
+
+button {
+
+border-radius: 10px;
+background-image: url('https://www.maxpixel.net/static/photo/1x/Abyss-Abstract-Backdrop-Aerial-Background-Above-4136764.jpg');
+background-color: gold;
+padding: 20px;
+width: 200px;
+cursor: pointer;
+padding: 20px;
+
+
+}
+p, strong{
+color:white;
+font-size: 30px;
+
+}
+
+h1{
+color:white;
+text-decoration: underline;
+font-size: 70px;
+}
+
+
+strong{
+
+font-size: 20px;
+
+
+}
+
+*{
+
+font-family: cursive;
+
+}
